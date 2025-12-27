@@ -3,6 +3,7 @@ plots/
 comparison/
 compared_algorithm/
 test_results/
+__pycache__/
 
 # Files to ignore
 compare.py
