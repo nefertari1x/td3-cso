@@ -1,4 +1,4 @@
-# TD3-CSO (TD3 + CSO) on CEC2020
+# TD3-CSO on CEC2020
 
 This repo trains TD3 agents to control CSO parameters on CEC2020 functions, and evaluates against a fixed-φ baseline.
 
