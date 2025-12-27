@@ -1,0 +1,10 @@
+# Folders to ignore
+plots/
+comparison/
+compared_algorithm/
+test_results/
+
+# Files to ignore
+compare.py
+compare_v2.py
+plot_all.py
